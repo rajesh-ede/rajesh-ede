@@ -8,7 +8,7 @@
 
 ---
 
-## 😁 About Me
+## ✨ About Me
 
 I'm a Computer Science student focused on building:
 
@@ -58,7 +58,7 @@ Currently preparing for 2026 product-based company roles.
 <img src="https://skillicons.dev/icons?i=java,js,typescript,c" />
 
 ### 🧩 Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
@@ -67,7 +67,7 @@ Currently preparing for 2026 product-based company roles.
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,eclipse" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 
 ---
 
