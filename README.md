@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 😁 About Me
 
 I'm a Computer Science student focused on building:
 
@@ -22,7 +22,7 @@ Currently preparing for 2026 product-based company roles.
 
 ---
 
-## 🧠 Problem Solving
+##  Problem Solving
 
 ✔ 250+ Problems Solved on LeetCode  
 ✔ Strong in Arrays, Strings, Sliding Window  
@@ -36,7 +36,7 @@ Currently preparing for 2026 product-based company roles.
   </p>
   
 <p>
-  <a href="https://leetcode.com/rajesh-ede/">
+  <a href="https://leetcode.com/u/MrCool1//">
     <img src="https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
     <a href="https://www.linkedin.com/in/venkatarajesh33/">
