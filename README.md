@@ -12,7 +12,7 @@
 
 I'm a Computer Science student focused on building:
 
-- Strong problem-solving skills (250+ LeetCode problems solved)
+- Strong problem-solving skills (320+ LeetCode problems solved)
 - Scalable backend systems using Java & Spring Boot
 - Clean and responsive full-stack applications
 
@@ -37,7 +37,7 @@ Currently preparing for 2026 product-based company roles.
   
 <p>
   <a href="https://leetcode.com/u/MrCool1//">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-320%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
     <a href="https://www.linkedin.com/in/venkatarajesh33/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
